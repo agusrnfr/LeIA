@@ -4,3 +4,4 @@ Ejercicios de "Lógica e Inteligencia Artificial"
 ## Prácticas
 * [**Práctica 1**](https://github.com/agusrnfr/LeIA/blob/main/Practicas/Practica%201/Practica%201.pdf)
 * [**Práctica 2**](https://github.com/agusrnfr/LeIA/blob/main/Practicas/Practica%202/Practica%202.pdf)
+* [**Práctica 3**](https://github.com/agusrnfr/LeIA/blob/main/Practicas/Practica%203/Practica%203.pdf)
